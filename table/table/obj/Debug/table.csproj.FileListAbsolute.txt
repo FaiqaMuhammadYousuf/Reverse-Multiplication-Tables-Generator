@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\c sharp\table\table\obj\Debug\table.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c sharp\table\table\obj\Debug\table.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c sharp\table\table\bin\Debug\table.exe.config
+C:\Users\User\Desktop\c sharp\table\table\bin\Debug\table.exe
+C:\Users\User\Desktop\c sharp\table\table\bin\Debug\table.pdb
+C:\Users\User\Desktop\c sharp\table\table\obj\Debug\table.exe
+C:\Users\User\Desktop\c sharp\table\table\obj\Debug\table.pdb
